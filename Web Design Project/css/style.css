@@ -1,0 +1,28 @@
+.jumbotron{
+	margin-bottom: 0px;
+    background-image: url(../Jumbotron2.jpg);
+    background-position: 50% 50%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:#065d7f ;
+    text-shadow: black 0.3em 0.3em 0.3em;
+}
+
+.luv{
+	padding-top: 30px;
+}
+.text-justify{
+	font-size:18px;
+}
+.luv{
+	background:#white;
+}
+p{
+	font-size:20px;
+}
+.col-md-4{
+	
+}
+.navbar-toggle{
+	color:white;
+}
